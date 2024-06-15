@@ -1,9 +1,9 @@
 {
   "id": "Restaurant-App",
   "start_url": "./index.html",
-  "name": "Restaurant App Bungkoes",
-  "short_name": "RestApp Bungkoes",
-  "description": "Restaurant Apps Bungkoes",
+  "name": "Tachi Restaurant",
+  "short_name": "Tachi Restaurant",
+  "description": "Tachi Restaurant",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#D84315",
